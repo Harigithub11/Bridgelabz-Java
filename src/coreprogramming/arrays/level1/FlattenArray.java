@@ -1,7 +1,7 @@
 package coreprogramming.arrays.level1;
 
 import java.util.Scanner;
-public class Copy2DTo1D {
+public class FlattenArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter rows: ");

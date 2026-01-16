@@ -1,7 +1,7 @@
 package coreprogramming.arrays.level2;
 
 import java.util.Scanner;
-public class BMI2DArray {
+public class BMICalculatorArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of persons: ");
